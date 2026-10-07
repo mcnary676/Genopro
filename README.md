@@ -219,4 +219,4 @@ GenoPro is available as a full free version with all features and updates includ
 Unlock the secrets of your family history with GenoPro today! Download now and start building your family tree with ease.
 
 ---
-**Last updated:** 2026-10-07 09:51:16 UTC
+**Last updated:** 2026-10-07 17:16:35 UTC
